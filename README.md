@@ -36,7 +36,8 @@
 
 ## Overview
 
-![image]((https://github.com/leaclf/team/blob/main/-desktop.png?raw=true)
+![-desktop](https://github.com/leaclf/team/assets/138538372/83c07203-7fb1-4df7-bbe2-fed49e4f55ce)
+
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
