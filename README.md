@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="(https://github.com/leaclf/team)">
+    <a href="https://github.com/leaclf/team">
       Solution
     </a>
     <span> | </span>
